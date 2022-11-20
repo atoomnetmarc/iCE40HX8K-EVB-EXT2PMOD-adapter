@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Package_TO_SOT_SMD-extra")(type "KiCad")(uri "${ATOOMNETKICAD}/footprints/Package_TO_SOT_SMD-extra.pretty")(options "")(descr ""))
+  (lib (name "Connector_PinSocket_2.54mm-extra")(type "KiCad")(uri "${ATOOMNETKICAD}/footprints/Connector_PinSocket_2.54mm-extra.pretty")(options "")(descr ""))
+)
