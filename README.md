@@ -47,3 +47,5 @@
 | 8     | 34    | C9    | R15   |
 | 9     | 38    | A11   | C3    |
 | 10    | 39    | C10   | E5    |
+
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
