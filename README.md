@@ -1,6 +1,14 @@
 # iCE40HX8K-EVB-EXT to 4 PMOD port adapter.
 
-![](Kicad/iCE40HX8K-EVB%20EXT2PMOD%20adapter-render.jpg)
+![](Kicad/iCE40HX8K-EVB%20EXT2PMOD%20adapter.jpg)
+
+# Soldering
+
+Solder every SMD component. Measure if 5V gets regulates to 3V3.
+
+Solder every through-hole component. Measure for shorts between any of the signal pins on the tiny 1.27 header J1, correct if needed.
+
+Clean the PCB.
 
 # Pin mapping from PMOD to iCE40HX8K
 
